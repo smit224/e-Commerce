@@ -1,5 +1,4 @@
-# e-Commerce
-Fully functional e-commerce website with frontend in React and backend in SpringBoot
+
 
 ## Introduction
 This e-commerce application is designed to provide a seamless online shopping experience. It features a robust backend built with Java and Spring Boot, a dynamic and user-friendly front end created with ReactJS, and a reliable PostgreSQL database.
